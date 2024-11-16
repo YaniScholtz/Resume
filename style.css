@@ -194,3 +194,7 @@ p {
     font-size: 16px;
 
 }
+
+.about .box ul li {
+    color: #333;
+}
